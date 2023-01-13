@@ -1,30 +1,41 @@
+
 # LCLN-challenge
 
-
-Author 👩‍💻
-
-@AliceStivali
+Front end development challenge
 
 
-Concept 🌐
+## Author 👩‍💻
+
+- [@AliceStivali](https://github.com/AliceStivali)
+
+
+## Concept 🌐
 
 The picture n#2, that I chose for this project, is a bright and colorful illustration that depicts a group of rowers. This reminded me of the Impressionists, since they often used to capture these kind of scenes. I decided to create some floating figures, that gently move and rotate and should resemble boats in shape and movements. When clicked, each of them reveals a boat-themed impressionist painting.
 
-
-Download instructions ‍💻
+## Run Locally 💻
 
 Clone the project
 
-  git clone https://github.com.git
-  
-Enter the directory
+```bash
+  git clone https://link-to-project
+```
 
-  cd 
-  
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
 Install dependencies
 
-  npm install 
+```bash
+  npm install
+```
 
-Run project
+Start the server
 
-  npm start
+```bash
+  npm run start
+```
+

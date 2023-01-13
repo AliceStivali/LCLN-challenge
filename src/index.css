@@ -36,6 +36,42 @@ body {
 }
 .main {
   height: 70%;
-  width: 70%;
-  margin: 50px 50px 50px 150px;
+  width: 60%;
+  margin: 50px 50px 50px 220px;
+}
+.boat {
+  width: 200px;
+  height: 100px;
+  border-radius: 500px 20px;
+  border: 2px solid white;
+}
+.boat:hover {
+  transform: rotate(180deg);
+  transform: scale(2, 2);
+  transition-duration: 3s;
+  cursor: pointer;
+}
+.first-line {
+  display: flex;
+  margin-bottom: 50px;
+  margin-top: 100px;
+  justify-content: space-between;
+}
+.second-line {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 10px;
+  margin-top: 150px;
+}
+.red-boat {
+  background-color: var(--red);
+  transform: rotate(120deg);
+}
+.yellow-boat {
+  background-color: var(--yellow);
+  transform: rotate(80deg);
+}
+.green-boat {
+  background-color: var(--green);
+  transform: rotate(100deg);
 }

@@ -27,6 +27,12 @@ Go to the project directory
   cd lcln-challenge
 ```
 
+Switch branch
+
+```bash
+  git checkout master
+```
+
 Install dependencies
 
 ```bash

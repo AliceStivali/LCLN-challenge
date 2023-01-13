@@ -44,7 +44,9 @@ export function Home() {
   return (
     <div className="container">
       <div className="header">
-        <div className="title">Lorem ipsum</div>
+        <div className="title">
+          Navigate among the boats and discover the paintings
+        </div>
       </div>
       <div className="aside"></div>
       <div className="main">

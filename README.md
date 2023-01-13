@@ -18,13 +18,13 @@ The picture n#2, that I chose for this project, is a bright and colorful illustr
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://https://github.com/AliceStivali/LCLN-challenge.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd lcln-challenge
 ```
 
 Install dependencies
@@ -36,6 +36,6 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm start
 ```
 

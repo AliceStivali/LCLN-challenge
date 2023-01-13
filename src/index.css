@@ -75,3 +75,12 @@ body {
   background-color: var(--green);
   transform: rotate(100deg);
 }
+.boat-img {
+  background-size: cover;
+  width: 200px;
+  height: 100px;
+  border-radius: 500px 20px;
+}
+.boat-1-img {
+  background-image: url(../public/media/renoir.png);
+}

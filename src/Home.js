@@ -45,7 +45,7 @@ export function Home() {
     <div className="container">
       <div className="header">
         <div className="title">
-          Navigate among the boats and discover the paintings
+          Navigate among the boats and click to discover them
         </div>
       </div>
       <div className="aside"></div>
@@ -57,7 +57,7 @@ export function Home() {
           <div className="boat yellow-boat" onClick={handleShowImg2}>
             {showImg2 && <div className="boat-img boat-2-img"></div>}
           </div>
-          <div className="boat green-boat" onClick={handleShowImg3}>
+          <div className="boat pink-boat" onClick={handleShowImg3}>
             {showImg3 && <div className="boat-img boat-3-img"></div>}
           </div>
         </div>
@@ -65,7 +65,7 @@ export function Home() {
           <div className="boat green-boat" onClick={handleShowImg4}>
             {showImg4 && <div className="boat-img boat-4-img"></div>}
           </div>
-          <div className="boat red-boat" onClick={handleShowImg5}>
+          <div className="boat blue-boat" onClick={handleShowImg5}>
             {showImg5 && <div className="boat-img boat-5-img"></div>}
           </div>
         </div>
